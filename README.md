@@ -18,3 +18,5 @@ O aplicativo usa as seguintes dependências:
 
 * [Normalize.css](https://necolas.github.io/normalize.css/) - Um arquivo CSS que faz com que os navegadores renderizem todos os elementos de forma mais consistente e alinhada aos padrões modernos.
 * [Roboto Font](https://fonts.google.com/specimen/Roboto) – Uma família de fontes sem serifa projetada por Christian Robertson e lançada pelo Google como parte do sistema operacional Android.
+
+------------
