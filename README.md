@@ -10,8 +10,8 @@ Começando
 
 Para executar o aplicativo, basta abrir o arquivo `index.html` em seu navegador. O aplicativo deve carregar e exibir uma lista de Pokémon.
 
- <a href="https://luizfernandoferri.github.io/Pokedex/">Ou Acesse diretamente por aqui :</a>
- 
+ <a href="https://luizfernandoferri.github.io/Pokedex/">Ou Acesse diretamente por aqui </a>
+
 
 Dependências
 ------------
